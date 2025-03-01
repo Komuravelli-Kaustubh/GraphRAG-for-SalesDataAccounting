@@ -7,7 +7,7 @@ from collections import deque
 import groq
 
 # Set Groq API key (Make sure to use environment variables for security)
-os.environ["GROQ_API_KEY"] = "your_groq_api_key_here"
+os.environ["GROQ_API_KEY"] = "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"
 groq_client = groq.Groq()
 
 class GraphRAGExcelChatbot:
