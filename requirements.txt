@@ -1,0 +1,8 @@
+streamlit
+networkx
+pandas
+openpyxl
+groq
+matplotlib
+torch
+transformers
